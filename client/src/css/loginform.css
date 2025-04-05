@@ -1,0 +1,10 @@
+.input_form{
+  width: 50%;
+  background-color: grey;
+  border-color: grey;
+  border-radius: 10px;
+  padding: 20px;
+  left: 25%;
+  position: absolute;
+  top: 10%;
+}

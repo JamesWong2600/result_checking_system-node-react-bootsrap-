@@ -5,3 +5,31 @@
   min-height: 100vh;
   width: 100%;
 }
+
+.table-container {
+  top: 10%;
+  left:25%;
+  position: absolute;
+  max-height: 400px;
+  overflow-y: auto;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.table-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-container thead th {
+  position: sticky;
+  top: 0;
+  background-color: #212529;
+  z-index: 1;
+}
+
+.pos{
+  top: 30%;
+  left:45%;
+  position: absolute;
+}
